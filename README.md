@@ -1,10 +1,8 @@
 # TripleTen Sprint 3 Project
 
 ## Description
-An analysis of video game sales data 
+An analysis of the top 20 best-selling video games using Python
 
-## Data Source
-Adapted from VGChartz (public domain estimates)
 
 ## Project Structure
 
@@ -16,3 +14,11 @@ Adapted from VGChartz (public domain estimates)
 | task4_loops.py | Task 4 | Loops and Conditionals |
 | task5_dictionaries.py | Task 5 | Dictionaries |
 | task6_functions.py | Task 6 | Functions |
+
+## Data Source
+Adapted from VGChartz (public domain estimates)
+
+## How to Reproduce
+1. Clone this repository: `git clone <https://github.com/AnnaB_Holman/sprint3-python-project.git`>
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the analysis: `jupyter notebook analysis.ipynb`
